@@ -1,0 +1,54 @@
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.exe
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.deps.json
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.runtimeconfig.json
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.pdb
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\Npgsql.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.csproj.AssemblyReference.cache
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.AssemblyInfoInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.AssemblyInfo.cs
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.csproj.CoreCompileInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.csproj.CopyComplete
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\refint\ProyectoConPostgres.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.pdb
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.genruntimeconfig.cache
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\obj\Debug\net6.0\ref\ProyectoConPostgres.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WENDY CALIZAYA\source\repos\ProyectoConPostgres\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.exe
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.deps.json
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.runtimeconfig.json
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\ProyectoConPostgres.pdb
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\Npgsql.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.csproj.AssemblyReference.cache
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.AssemblyInfoInputs.cache
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.AssemblyInfo.cs
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.csproj.CoreCompileInputs.cache
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.csproj.CopyComplete
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\refint\ProyectoConPostgres.dll
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.pdb
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ProyectoConPostgres.genruntimeconfig.cache
+C:\Users\NESTOR\Desktop\taller de programacion\ProyectoConPostgres\obj\Debug\net6.0\ref\ProyectoConPostgres.dll
