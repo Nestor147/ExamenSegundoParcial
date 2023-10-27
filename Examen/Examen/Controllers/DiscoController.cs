@@ -19,7 +19,7 @@ namespace Examen.Controllers
         {
             _aplicacionContext.Disco.Add(disco);
             await _aplicacionContext.SaveChangesAsync();
-            return StatusCode(StatusCodes.Status200OK, "Agregado correctamente el disco");
+            return StatusCode(StatusCodes.Status200OK, "Agregado correctamente");
         }
         [HttpGet]
         [Route("MostrarDisco")]
@@ -34,7 +34,7 @@ namespace Examen.Controllers
         {
             _aplicacionContext.Disco.Update(disco);
             await _aplicacionContext.SaveChangesAsync();
-            return StatusCode(StatusCodes.Status200OK, "Editado correctamente el disco");
+            return StatusCode(StatusCodes.Status200OK, "Editado correctamente ");
         }
         [HttpDelete]
         [Route("EliminarDisco/")]
@@ -43,7 +43,7 @@ namespace Examen.Controllers
            Disco disco = _aplicacionContext.Disco.Find(id);
             _aplicacionContext.Disco.Remove(disco);
             await _aplicacionContext.SaveChangesAsync();
-            return StatusCode(StatusCodes.Status200OK, "Eliminado correctamente el disco");
+            return StatusCode(StatusCodes.Status200OK, "Eliminado correctamente  ");
         }
     }
 }
